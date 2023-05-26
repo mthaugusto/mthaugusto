@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hi, I'm Matheus Leite! 👋</h3>
+<p align="justify" text-align="justify-center">Passionate about technology since forever, I ended up taking a different path and first graduated at the age of 21 in Foreign Trade and have been working in the area ever since, which I'm sure helped me to develop some of the most required day by day activitie's soft skills. However, I never gave up technology and by the last year I decided to dive headlong into the programming area.
 
-<!--
-**mthaugusto/mthaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Still not knowing exactly which area of ​​development's my favorite, I'm trying to learn a little bit of everything since my goal is to be a full stack developer... but I must confess that I'm getting along much better with back-end technologies like Java and Python. </p>
+<hr>
+<h4 align="center">Some of my favorite hobbies and things that I can't live without:</h4>
+<p align="center">🎸 music - I know how to play a few instruments and I have seen Guns N' Roses live 21x times,</p>
+<p align="center">💫 Star Wars - you can complain about it but the sequels are in fact REALLY GOOD,</p>
+<p align="center">⚽ soccer - Palmeiras' my number one passion in the world, </p>
+<p align="center">📚 books - I can't live without a good thriller or a sci-fi one,</p>
+<p align="center">🧉 hot yerba mate - no way I'm starting my day without a good and bitter one,</p>
+<p align="center">🐶and Kiara, my 12-years-old beagle.</p>
+<hr>
+<h4 align="center">Follow me and let's share knowledge!</h4>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mthaugusto&show_icons=true&locale=en&layout=compact" alt="mthaugusto" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mthaugusto&show_icons=true&locale=en" alt="mthaugusto" /></p>
