@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+
 <h3 align="center">Hi, I'm Matheus Leite! 👋</h3>
 <p align="justify" text-align="justify-center">Passionate about technology since forever, I ended up taking a different path and first graduated at the age of 21 in Foreign Trade and have been working in the area ever since, which I'm sure helped me to develop some of the most required day by day activitie's soft skills. However, I never gave up technology and by the last year I decided to dive headlong into the programming area.
 
@@ -16,3 +18,11 @@ Still not knowing exactly which area of ​​development's my favorite, I'm try
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mthaugusto&show_icons=true&locale=en&layout=compact" alt="mthaugusto" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mthaugusto&show_icons=true&locale=en" alt="mthaugusto" /></p>
+
+<p align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mthaugusto}/count.svg" /></p> 
+<br>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
