@@ -8,7 +8,7 @@ Still not knowing exactly which area of ​​development's my favorite, I'm try
 <h4 align="center">Some of my favorite hobbies and things that I can't live without:</h4>
 <p align="center">🎸 music - I know how to play a few instruments and I have seen Guns N' Roses live 21x times,</p>
 <p align="center">💫 Star Wars - you can complain about it but the sequels are in fact REALLY GOOD,</p>
-<p align="center">⚽ soccer - Palmeiras' my number one passion in the world, </p>
+<p align="center">⚽ soccer - Palmeiras' my number one passion, </p>
 <p align="center">📚 books - I can't live without a good thriller or a sci-fi one,</p>
 <p align="center">🧉 hot yerba mate - no way I'm starting my day without a good and bitter one and</p>
 <p align="center">🐶Kiara, my 12-years-old beagle.</p>
