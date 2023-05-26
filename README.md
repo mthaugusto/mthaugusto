@@ -11,7 +11,7 @@ Still not knowing exactly which area of ​​development's my favorite, I'm try
 <p align="center">⚽ soccer - Palmeiras' my number one passion, </p>
 <p align="center">📚 books - I can't live without a good thriller or a sci-fi one,</p>
 <p align="center">🧉 hot yerba mate - no way I'm starting my day without a good and bitter one and</p>
-<p align="center">🐶Kiara, my 12-years-old beagle.</p>
+<p align="center">🐶 Kiara, my 12-years-old beagle.</p>
 <hr>
 <h4 align="center">Follow me and let's share knowledge!</h4>
 
