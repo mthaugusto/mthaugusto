@@ -3,7 +3,6 @@
 <h3 align="center">Hi, I'm Matheus Leite! 👋</h3>
 <p align="justify" text-align="justify-center">Passionate about technology since forever, I ended up taking a different path and first graduated at the age of 21 in Foreign Trade and have been working in the area ever since, which I'm sure helped me to develop some of the most required day by day activities' soft skills. However, I never gave up technology and by the last year I decided to dive headlong into the programming area.
 
-Still not knowing exactly which area of ​​development's my favorite, I'm trying to learn a little bit of everything since my goal is to be a full stack developer... but I must confess that I'm getting along much better with back-end technologies like Java and Python. </p>
 <hr>
 <h4 align="center">Some of my favorite hobbies and things that I can't live without:</h4>
 <p align="center">🎸 music - I know how to play a few instruments and I have seen Guns N' Roses live 21x times,</p>
